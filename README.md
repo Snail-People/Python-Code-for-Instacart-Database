@@ -1,1 +1,1 @@
-# Python-Code-for-Instacart-Database
+## This project contains data from Instacart involving customer data, inventory data, and sales data. I used python to clean the data and then conduct analysis by creating visualizations using matplotlib and seaborn
